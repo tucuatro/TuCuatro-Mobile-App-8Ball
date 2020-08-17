@@ -6,10 +6,10 @@
         id        = "com.tucuatro.chords"
         version   = "0.0.1">
 
-    <name>TuCuatro Chords</name>
+    <name>TuCuatro 8 Ball</name>
 
     <description>
-        Chords Calculator for Musical Instruments
+        TuCuatro Game: Magic 8 Ball
     </description>
 
     <author href="https://tucuatro.com" email="mobile@tucuatro.com">
